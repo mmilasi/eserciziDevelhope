@@ -1,4 +1,4 @@
-package Ereditarieta1;
+package ereditarieta1;
 
 public class Main {
     public static void main(String[] args) {

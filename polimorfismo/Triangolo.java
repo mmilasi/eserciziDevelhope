@@ -1,4 +1,4 @@
-package Polimorfismo;
+package polimorfismo;
 
 public class Triangolo extends Forma{
     public static void calcolaArea() {

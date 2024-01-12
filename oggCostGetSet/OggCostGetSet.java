@@ -1,4 +1,4 @@
-package OggCostGetSet;
+package oggCostGetSet;
 
 public class OggCostGetSet {
     public static void main(String[] args) {

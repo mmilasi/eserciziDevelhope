@@ -1,4 +1,4 @@
-package OggCostGetSet2;
+package oggCostGetSet2;
 
 public class Auto {
 

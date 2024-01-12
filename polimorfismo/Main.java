@@ -1,4 +1,4 @@
-package Ereditarieta2;
+package polimorfismo;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,5 +6,7 @@ public class Main {
         Forma.calcolaArea();
         Rettangolo rettangolo1 = new Rettangolo();
         Rettangolo.calcolaArea();
+        Triangolo triangolo1 = new Triangolo();
+        Triangolo.calcolaArea();
     }
 }

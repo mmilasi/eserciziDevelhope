@@ -1,4 +1,4 @@
-package OggCostGetSet;
+package oggCostGetSet;
 
 public class Studente {
     private int ID;

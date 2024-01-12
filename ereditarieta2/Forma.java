@@ -1,4 +1,4 @@
-package Ereditarieta2;
+package ereditarieta2;
 
 public class Forma {
     public static void calcolaArea() {

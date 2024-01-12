@@ -1,4 +1,4 @@
-package Polimorfismo;
+package polimorfismo;
 
 public class Forma {
     public static void calcolaArea() {

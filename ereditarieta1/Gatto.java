@@ -1,4 +1,4 @@
-package Ereditarieta1;
+package ereditarieta1;
 
 public class Gatto extends Animale{
     public static void faIlVerso() {
