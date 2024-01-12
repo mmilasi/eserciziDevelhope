@@ -2,6 +2,6 @@ package Ereditarieta1;
 
 public class Animale {
     public static void faIlVerso() {
-        System.out.println("Press R to win");
+        System.out.println("Un animale fa: 'Press R to win'");
     }
 }
