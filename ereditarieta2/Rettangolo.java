@@ -1,8 +1,17 @@
 package ereditarieta2;
 
-public class Rettangolo extends Forma{
+public class Rettangolo extends Forma {
+    private int lato1;
+    private int lato2;
 
-    public static void calcolaArea() {
-        System.out.println("Per calcolare l'area di un rettangolo bisogna moltiplicare la sua base per la sua altezza.");
+    public Rettangolo(int lato1, int lato2) {
+        this.lato1 = lato1;
+        this.lato2 = lato2;
+    }
+
+    @Override
+    public void calcolaArea() {
+        double area = lato1 * lato2;
+        System.out.println("L'area del rettangolo: " + area);
     }
 }

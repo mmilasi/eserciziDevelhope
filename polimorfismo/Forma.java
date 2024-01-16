@@ -1,7 +1,8 @@
 package polimorfismo;
 
 public class Forma {
-    public static void calcolaArea() {
-        System.out.println("Per calcolare l'area di una forma serve la forma (duh).");
+    public void calcolaArea() {
     }
+
+
 }
